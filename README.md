@@ -29,4 +29,3 @@ The content on these pages is intended for informational purposes only and shoul
 I am active in the AI community and share my knowledge on platforms such as Discord, Hugging Face, Replit, and GitHub. Feel free to reach out via GitHub or any of the other platforms where I am active if you want to collaborate or have any questions.
 
 Thank you for visiting!
-<meta name="google-site-verification" content="sfxucWuO3FVPXctBjzbVqPAUkKUgQ9AJJBIGKM9dc9Q" />
